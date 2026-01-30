@@ -63,7 +63,19 @@ The dashboard visualizes:
 - Disease probability distribution  
 - Risk assessment table  
 - ROC curve of the final model  
-- Confusion matrix  
+- Confusion matrix
+
+  ### 🔍 Output Visualizations
+
+####  Disease Risk Prediction Dashboard
+![Dashboard](outputs/dashboard.png)
+
+####  Disease Probability and Risk Table
+![Probability Table](outputs/probability_table.png)
+
+####  ROC Curve – Model Comparison
+![ROC Curve](outputs/roc_curve.png)
+
 
 ---
 
